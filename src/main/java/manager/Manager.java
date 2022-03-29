@@ -1,5 +1,6 @@
-package domain;
+package manager;
 
+import domain.Ticket;
 import repo.Repository;
 
 public class Manager {
